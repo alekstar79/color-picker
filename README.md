@@ -10,6 +10,8 @@ Initially, it is necessary to clone/download this repository.
 
 Then, to install as an extension, you need to open chrome://extensions/ select - download the unpacked extension
 and specify the path to the application directory. Just to run the script, it is enough to open the index file in the browser.
+Further integration of the script is assigned to the developer of the final application.  
+
 It should be noted that the EyeDropper API is an experimental technology and is supported only by Chrome, Edge and Opera.
 
 ![review](review.gif "Color Picker")
